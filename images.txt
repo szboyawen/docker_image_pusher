@@ -10,3 +10,4 @@ xpzouying/xiaohongshu-mcp
 athomasson2/ebook2audiobook
 #高光剪辑
 zhouxiaoka/autoclip
+library/python:3.12
