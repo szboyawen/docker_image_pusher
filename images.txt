@@ -1,2 +1,2 @@
+python:3.12
 zhouxiaoka/autoclip
-library/python:3.12
