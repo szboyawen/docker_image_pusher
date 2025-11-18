@@ -4,3 +4,9 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+#小红书 MCP
+xpzouying/xiaohongshu-mcp
+#可将电子书转换为带章节和元数据的有声读物
+athomasson2/ebook2audiobook
+#高光剪辑
+zhouxiaoka/autoclip
