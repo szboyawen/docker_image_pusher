@@ -1,1 +1,2 @@
-redis:7-alpine
+python:3.9-slim                                          
+node:18-slim
