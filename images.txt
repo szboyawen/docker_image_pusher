@@ -1,1 +1,1 @@
-mher/flower:1.0
+flower
