@@ -1,1 +1,1 @@
-zhouxiaoka/autoclip:latest
+https://registry-1.docker.io/v2/library/redis/manifests/7-alpine
