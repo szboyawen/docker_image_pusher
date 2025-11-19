@@ -1,1 +1,1 @@
-athomasson2/ebook2audiobook:latest
+redis:7-alpine
