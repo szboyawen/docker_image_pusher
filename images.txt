@@ -1,1 +1,1 @@
-https://registry-1.docker.io/v2/library/redis/manifests/7-alpine
+redis:7-alpine
