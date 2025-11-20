@@ -1,1 +1,1 @@
-bestzwei/libretv:latest
+node:18-alpine
