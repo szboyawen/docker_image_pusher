@@ -1,1 +1,2 @@
 wechatpadpro/wechatpadpro:latest
+wechaty/wechaty:latest
