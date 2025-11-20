@@ -1,2 +1,3 @@
 wechatpadpro/wechatpadpro:latest
-wechaty/wechaty:latest
+mysql:8.0
+redis:6
