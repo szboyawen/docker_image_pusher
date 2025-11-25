@@ -1,1 +1,2 @@
-postgres:15
+python:3.11-slim-bullseye
+python:3.11
