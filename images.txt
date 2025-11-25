@@ -1,1 +1,1 @@
-katelya77/katelyatv:latest
+ghcr.io/senshinya/moontv:latest
