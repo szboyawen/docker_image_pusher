@@ -1,1 +1,1 @@
-senshinya/moontv:latest
+jxxghp/moviepilot
