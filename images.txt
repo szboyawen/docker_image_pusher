@@ -1,1 +1,1 @@
-gogs/gogs
+ddsderek/wxchat:latest
