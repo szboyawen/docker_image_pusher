@@ -1,1 +1,1 @@
-ghcr.io/senshinya/moontv:latest
+senshinya/moontv:latest
