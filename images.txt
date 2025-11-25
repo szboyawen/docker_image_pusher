@@ -1,1 +1,1 @@
-ddsderek/wxchat:latest
+louislam/dockge:1
