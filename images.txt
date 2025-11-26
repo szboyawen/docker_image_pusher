@@ -1,2 +1,3 @@
 jefferyhjw/bilinote-backend:latest
 efferyhjw/bilinote-frontend:latest
+jefferyhjw/bilinote-nginx:latest
