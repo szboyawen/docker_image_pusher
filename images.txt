@@ -1,1 +1,1 @@
-jefferyhjw/bilinote-backend:latest
+efferyhjw/bilinote-frontend:latest
