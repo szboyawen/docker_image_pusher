@@ -1,1 +1,1 @@
-mumujie/mumuainovel:latest
+postgres:18-alpine
