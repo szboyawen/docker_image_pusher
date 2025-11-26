@@ -1,1 +1,1 @@
-soulter/astrbot:latest
+mlikiowa/napcat-docker:latest
