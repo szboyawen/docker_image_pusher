@@ -1,1 +1,1 @@
-efferyhjw/bilinote-frontend
+sandai/magi:latest
