@@ -1,1 +1,1 @@
-lss233/kirara-agent-framework:latest
+soulter/astrbot:latest
