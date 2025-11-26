@@ -1,1 +1,1 @@
-jefferyhjw/bilinote-nginx:latest
+efferyhjw/bilinote-frontend
