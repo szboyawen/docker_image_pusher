@@ -1,1 +1,2 @@
-postgres:18-alpine
+jefferyhjw/bilinote-backend:latest
+efferyhjw/bilinote-frontend:latest
