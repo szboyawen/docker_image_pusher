@@ -1,1 +1,1 @@
-python:3.9-slim
+evil0ctal/douyin_tiktok_download_api:latest
