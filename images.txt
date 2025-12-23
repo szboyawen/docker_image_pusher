@@ -1,2 +1,1 @@
-thesmallhancat/sora2api:latest
-caomingjun/warp
+python:3.10-slim
