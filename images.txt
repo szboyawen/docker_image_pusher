@@ -1,1 +1,1 @@
-social-auto-upload:latest
+python:3.10-slim
